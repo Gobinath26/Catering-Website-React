@@ -1,0 +1,42 @@
+#contact-container {
+  margin: 40px;
+}
+.form-control {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  margin-top: 20px;
+  padding: 10px;
+}
+.contact-title {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+  font-size: 35px;
+}
+.contact-subtitle {
+  font-family: "Times New Roman", Georgia, Serif;
+  font-weight: bolder;
+  color: #607d8b !important;
+  font-size: 18px;
+  margin-top: 25px;
+}
+.contact-para {
+  font-family: "Times New Roman", Georgia, Serif;
+  margin-top: 30px;
+}
+.contact-button {
+  border: none;
+  cursor: pointer;
+  margin-top: 25px;
+  font-size: 15px;
+  font-family: "Times New Roman", Georgia, Serif;
+}
+.contact-button:hover {
+  background-color: rgb(212, 204, 204);
+}
+.page-footer {
+  margin-top: 80px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 60px;
+}

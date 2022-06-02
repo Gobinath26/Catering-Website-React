@@ -1,0 +1,33 @@
+#about-container {
+  margin: 60px;
+}
+.about-image {
+  height: 500px;
+  width: 500px;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.75;
+  border-radius: 4px;
+}
+.about-title {
+  font-size: 38px;
+  text-align: center;
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+.about-subtitle {
+  text-align: center;
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+  margin-top: 40px;
+}
+.about-para1 {
+  font-size: 18px;
+  font-family: "Times New Roman", Georgia, Serif;
+  margin-top: 25px;
+}
+.about-para2 {
+  font-size: 18px;
+  font-family: "Times New Roman", Georgia, Serif;
+  color: grey;
+}

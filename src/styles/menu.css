@@ -1,0 +1,28 @@
+#menu-container {
+  margin: 60px;
+}
+.menu-image {
+  height: 600px;
+  width: 600px;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.75;
+  border-radius: 4px;
+}
+.menu-title {
+  font-size: 38px;
+  text-align: center;
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+.menu-subtitle {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+  margin-top: 40px;
+  font-size: 20px;
+}
+.menu-para {
+  font-family: "Times New Roman", Georgia, Serif;
+  margin-top: 18px;
+  color: grey;
+}

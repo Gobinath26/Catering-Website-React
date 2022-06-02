@@ -1,0 +1,16 @@
+.home-container {
+  height: 600px;
+  width: 100%;
+  background: url("https://www.w3schools.com/w3images/hamburger.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+}
+.home-text {
+  margin: 20px;
+  padding-left: 10px;
+  letter-spacing: 5px;
+  font-family: "Playfair Display";
+  color: grey;
+}
